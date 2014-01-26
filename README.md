@@ -67,6 +67,8 @@ Borré: peritajes criminalísticos*.
 
 6.46 Gran avance! Arreglé corrimiento de página en linkeos (#, del js). No muestra dropdown list tras pinchar una vez. En Chrome corre sin ningún problema. Google fonts tiene una interesante familia de fuentes para jugar con ellas. 
 
+15.00 Se han mostrado las mejoras al cliente.
+
 FALTA:
 
 - Creación del logo con isotipo.
